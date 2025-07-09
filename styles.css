@@ -1,0 +1,42 @@
+body {
+  background: -webkit-linear-gradient(right, #f1e5b4, #938552, #e8dcad);
+  background: -moz-linear-gradient(right, #f1e5b4, #938552, #e8dcad);
+  background: -o-linear-gradient(right, #f1e5b4, #938552, #e8dcad);
+  background: linear-gradient(to right, #f1e5b4, #938552, #e8dcad);
+  color: #f1e5b4;
+}
+
+h1 {
+  color: #080413;
+  text-shadow: 0 0 5px #dbbd59;
+  font-family: "Courier New", Courier;
+  text-align: center;
+}
+
+h2 {
+  color: #080413;
+  text-shadow: 0 0 3px #ad8753;
+  font-family: times new roman, arial;
+  text-align: center;
+  font-size: 25px;
+}
+
+h3 {
+  color: #080413;
+  text-shadow: 0 0 2px #000000;
+  font-family: times new roman, arial;
+  text-align: center;
+  font-size: 23px;
+}
+
+p {
+  color: #1a1a1a;
+  text-shadow: 0 0 1px #000000;
+  font-family: times new roman, arial;
+  text-align: center;
+  font-size: 17px;
+}
+
+a:visited {
+  color: purple;
+}
